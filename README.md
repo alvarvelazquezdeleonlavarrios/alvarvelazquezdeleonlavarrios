@@ -12,14 +12,13 @@ Hola, soy Alvar Velázquez de León Lavarrios.
 - 🍜 Comida favorita: sopa de tomate con pasta.
 - 🐱 Mascota favorita: gatos.
 - 🎹 Género musical favorito: electrónica (principalmente los subgéneros Trance y Synthwave).
-- 🎨 Recientemente, estoy aprendiendo a hacer arte digital como pasatiempo.
 
 
 -- English --
 
 Hi, I'm Alvar Velázquez de León Lavarrios.
 
-- 💁 Actually, I'm 23 years old.
+- 💁 Currently, I'm 23 years old.
 - 🇲🇽 I'm from Mexico City
 - 💻 University student to be a computer engineer
 - 📃 Favorite programming languages: Java, C++ and C#
@@ -29,7 +28,6 @@ Hi, I'm Alvar Velázquez de León Lavarrios.
 - 🍜 Favorite food: tomato soup with pasta.
 - 🐱 Favorite pet: cats.
 - 🎹 Favorite music genre: electronic music (mainly Trance and Synthwave subgenres).
-- 🎨 Recently, I'm learning how to make digital art as hobby.
 
 <!---
 alvarvelazquezdeleonlavarrios/alvarvelazquezdeleonlavarrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
