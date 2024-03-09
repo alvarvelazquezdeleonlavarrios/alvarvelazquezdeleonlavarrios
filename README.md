@@ -1,33 +1,48 @@
--- Español --
-
-Hola, soy Alvar Velázquez de León Lavarrios.
-
-- 💁 Actualmente tengo 23 años de edad.
-- 🇲🇽 Originario de CDMX, México.
-- 💻 Estudiante universitario para ser Ingeniero en Computación.
-- 📃 Lenguajes de programación favoritos: Java, C++ y C#.
-- 🎮 Me encanta jugar y desarrollar mis propios videojuegos en Unity 3D.
-- 👾 Videojuegos favoritos: Halo, Blue Reflection, Super Mario Bros., Animal Crossing, Minecraft.
-- 🌸 Me gusta mirar anime, en especial lo relacionado con chicas mágicas.
-- 🍜 Comida favorita: sopa de tomate con pasta.
-- 🐱 Mascota favorita: gatos.
-- 🎹 Género musical favorito: electrónica (principalmente los subgéneros Trance y Synthwave).
-
-
 -- English --
 
 Hi, I'm Alvar Velázquez de León Lavarrios.
 
-- 💁 Currently, I'm 23 years old.
-- 🇲🇽 I'm from Mexico City
-- 💻 University student to be a computer engineer
-- 📃 Favorite programming languages: Java, C++ and C#
-- 🎮 I love play and develop my own videogames in Unity 3D.
-- 👾 Favorite videogames: Halo, Blue Reflection, Super Mario Bros., Animal Crossing, Minecraft.
+- 💁 I'm 24 years old.
+- 🇲🇽 From Mexico City.
+- 💻 Computer Engineering University student.
+- 📃 Favorite programming languages: C#, Java and C++
+- 🎮 I love play videogames and develop my own on Unity 3D.
+- 👾 Favorite videogame franchises: Halo, Blue Reflection, Super Mario Bros., Animal Crossing, Minecraft.
 - 🌸 I like watching anime, specially magical girls stuff.
-- 🍜 Favorite food: tomato soup with pasta.
+- 🍜 Favorite food: tomato soup.
 - 🐱 Favorite pet: cats.
-- 🎹 Favorite music genre: electronic music (mainly Trance and Synthwave subgenres).
+- 🎹 Favorite music genre: electronic (mainly Trance and Synthwave subgenres).
+
+
+-- Español --
+
+Hola, soy Alvar Velázquez de León Lavarrios.
+
+- 💁 Tengo 24 años de edad.
+- 🇲🇽 De la Ciudad de México.
+- 💻 Estudiante universitario de Ingeniería en Computación.
+- 📃 Lenguajes de programación favoritos: C#, Java y C++
+- 🎮 Me encanta jugar videojuegos y desarrollar los mios en Unity 3D.
+- 👾 Franquisias de videojuegos favoritas: Halo, Blue Reflection, Super Mario Bros., Animal Crossing, Minecraft.
+- 🌸 Me gusta mirar anime, en especial lo relacionado con chicas mágicas.
+- 🍜 Comida favorita: sopa de tomate.
+- 🐱 Mascota favorita: gatos.
+- 🎹 Género musical favorito: electrónica (principalmente los subgéneros Trance y Synthwave).
+
+
+-- -- -- -- -- -- --
+Follow me:
+
+Pixiv:
+https://www.pixiv.net/en/users/25045823
+
+ArtStation:
+https://www.artstation.com/alvarvelazquezdeleonlavarrios
+
+DeviantArt:
+https://www.deviantart.com/alvarvll
+
+
 
 <!---
 alvarvelazquezdeleonlavarrios/alvarvelazquezdeleonlavarrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
