@@ -2,6 +2,7 @@
 
 Hi, I'm Alvar Velázquez de León Lavarrios.
 
+About me:
 - 💁 I'm 24 years old.
 - 🇲🇽 From Mexico City.
 - 💻 Computer Engineering University student.
@@ -18,12 +19,13 @@ Hi, I'm Alvar Velázquez de León Lavarrios.
 
 Hola, soy Alvar Velázquez de León Lavarrios.
 
+Sobre mi:
 - 💁 Tengo 24 años de edad.
 - 🇲🇽 De la Ciudad de México.
 - 💻 Estudiante universitario de Ingeniería en Computación.
 - 📃 Lenguajes de programación favoritos: C#, Java y C++
 - 🎮 Me encanta jugar videojuegos y desarrollar los mios en Unity 3D.
-- 👾 Franquisias de videojuegos favoritas: Halo, Blue Reflection, Super Mario Bros., Animal Crossing, Minecraft.
+- 👾 Franquicias de videojuegos favoritas: Halo, Blue Reflection, Super Mario Bros., Animal Crossing, Minecraft.
 - 🌸 Me gusta mirar anime, en especial lo relacionado con chicas mágicas.
 - 🍜 Comida favorita: sopa de tomate.
 - 🐱 Mascota favorita: gatos.
