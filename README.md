@@ -19,7 +19,7 @@ Hola, soy Alvar Velázquez de León Lavarrios. Orgullosamente mexicano. Egresado
 
 - 👶 **Fecha de Nacimiento:** 24 de Agosto de 1999
 - 💁 **Estatura y Peso**: 165cm, 55kg
-- 🇲🇽 **Nacionalidad: Mexicano**
+- 🇲🇽 **Nacionalidad**: Mexicano
 - 🍜 **Comida Favorita:** Sopa de tomate con pasta
 - 🐻 **Animal Favorito:** Oso
 - 🐱 **Mascota Favorita:** Gato
