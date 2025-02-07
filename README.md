@@ -44,7 +44,7 @@ Hola, soy Alvar Velázquez de León Lavarrios. Orgullosamente mexicano. Egresado
 
 ### Job Networks | Redes Laborales
 
-- Linkedin: https://www.linkedin.com/in/alvar-vel%C3%A1zquez-de-le%C3%B3n-lavarrios/
+- LinkedIn: https://www.linkedin.com/in/alvar-vel%C3%A1zquez-de-le%C3%B3n-lavarrios/
 
 ### Artwork Networks | Redes Artísticas
 
